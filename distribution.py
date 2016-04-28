@@ -38,5 +38,5 @@ Notice about this example:
 """
 i = input("Please enter a string of text ")
 
-list(i)
-list.sort(i)
+x = list(i)
+print(sorted(x))
