@@ -36,3 +36,7 @@ Notice about this example:
   in the text and they are listed in the output in alphabetical order.
 * Letters that do not occur in the text are not listed in the output at all.
 """
+i = input("Please enter a string of text ")
+
+list(i)
+list.sort(i)
